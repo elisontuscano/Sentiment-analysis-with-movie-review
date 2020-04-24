@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<head>
+  <style>
+    body{
+      text-align: center;
+    }
+    a{
+      text-decoration: none;
+    }
+  </style>
+</head>
+<body >
+
+  <header class="w3-container w3-blue w3-center">
+    <h1>Movie Review Sentiment Detection</h1>
+  </header>
+
+  <h4><p class="w3-text-red">Write the review here to know whether its Positive or Negative</p></h4>
+
+  <form action="/" method='POST' >
+    <textarea name="news" rows="20" cols="90"></textarea>
+    <br><br>
+    <input type="submit" class="w3-btn w3-blue" > 
+  </form>
+
+  <h4><p id="result" class="w3-text-green">Your Review is  {{result}}</p></h4>
+
+  <h2><a href="https://github.com/elisontuscano/Sentiment-analysis-with-movie-review" class="w3-text-red">Link for Github Code</a></h2>
+
+</body>
+</html>
