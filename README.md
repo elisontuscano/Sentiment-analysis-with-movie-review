@@ -2,7 +2,7 @@
 
 For Web demo : [click here](http://reviewdetector.herokuapp.com)
 
-Video demo: **See video in Images Folder**
+Detailed Report: **See ML_report.pdf**
 
 For using locally :<br>
 1. Install all dependencies mentioned in **requirement.txt**
@@ -11,7 +11,9 @@ For using locally :<br>
 3. To run the Flask app run app.py
 >python app.py
 
-Screenshot :<br>
+Demo and Screenshot :<br>
+
+![demo](Images/gif.gif) 
 Positive
 ![Positive example](Images/1.png) 
 Negative
