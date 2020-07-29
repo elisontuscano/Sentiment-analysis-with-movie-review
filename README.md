@@ -1,6 +1,7 @@
 # Sentiment-analysis-with-movie-review
 
-For Web demo : [click here](http://reviewdetector.herokuapp.com)
+For Web demo on heroku : [click here](http://reviewdetector.herokuapp.com)
+For Web demo on Azure  : [click here](https://reviewsenti.azurewebsites.net)
 
 Detailed Report: **See ML_report.pdf**
 
